@@ -1,24 +1,24 @@
 - 👋 Hi, I’m @rohith kumar paswan
 - I'm currently pursuing my BTech in the IT department, where I'm honing my skills and exploring the endless possibilities of technology. 
-- 🔧 Skills & Technologies
+- 🔧 Skills & Technologies::
 
   
   Languages: HTML, CSS, JavaScript, Python
 
-- 🌱 Learning Journey
+- 🌱 Learning Journey::
 - Advanced JavaScript concepts
 - Frontend frameworks like React and Vue.js
 - Backend development with Node.js and Express
 
-- 📫 Reach Me
+- 📫 Reach Me::
 - rohithkumarpaswan1921@gmail.com
 - linkedin.com/in/rohith-kumar-paswan
 
-- 💡 Fun Fact
+- 💡 Fun Fact::
 - I love solving puzzles and often find creative solutions to coding problems, just like cracking a complex puzzle!
 
 
-- ✨ Extra & Attractive
+- ✨ Extra & Attractive::
 - Passionate about innovation, I'm always looking for new challenges and opportunities to grow. I believe in the power of collaboration and enjoy working on projects that make a difference. With a strong 
   foundation in web development and a keen eye for design, I'm excited to contribute to the tech community and build amazing applications.
 
