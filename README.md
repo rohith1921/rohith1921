@@ -14,7 +14,7 @@
 - rohithkumarpaswan1921@gmail.com
 - linkedin.com/in/rohith-kumar-paswan
 
--💡 Fun Fact
+- 💡 Fun Fact
 - I love solving puzzles and often find creative solutions to coding problems, just like cracking a complex puzzle!
 
 
