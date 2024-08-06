@@ -3,7 +3,9 @@
 - I'm currently pursuing my BTech in the IT department, where I'm honing my skills and exploring the endless possibilities of technology.
 - 
 - 🔧 Skills & Technologies
----Languages: HTML, CSS, JavaScript, Python
+
+  
+  Languages: HTML, CSS, JavaScript, Python
 
 - 🌱 Learning Journey
 - Advanced JavaScript concepts
@@ -12,6 +14,8 @@
 
 -📫 Reach Me
 -rohithkumarpaswan1921@gmail.com
+
+
 -linkedin.com/in/rohith-kumar-paswan
 
 -💡 Fun Fact
