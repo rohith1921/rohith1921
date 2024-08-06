@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @rohith kumar paswan
-- 
-- I'm currently pursuing my BTech in the IT department, where I'm honing my skills and exploring the endless possibilities of technology.
-- 
+- I'm currently pursuing my BTech in the IT department, where I'm honing my skills and exploring the endless possibilities of technology. 
 - 🔧 Skills & Technologies
 
   
@@ -14,6 +12,7 @@
 
 -📫 Reach Me
 -rohithkumarpaswan1921@gmail.com
+
 
 
 -linkedin.com/in/rohith-kumar-paswan
