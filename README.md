@@ -5,7 +5,9 @@
   
   Languages: HTML, CSS, JavaScript, Python
 
-- 🌱 Learning Journey::
+- 🌱 Learning Journey:
+
+  
  Advanced JavaScript concepts
 
 
@@ -16,16 +18,26 @@
 
  
 
-- 📫 Reach Me::
-- rohithkumarpaswan1921@gmail.com
-- linkedin.com/in/rohith-kumar-paswan
+- 📫 Reach Me:
 
-- 💡 Fun Fact::
-- I love solving puzzles and often find creative solutions to coding problems, just like cracking a complex puzzle!
+  
+ rohithkumarpaswan1921@gmail.com
+
+  
+ linkedin.com/in/rohith-kumar-paswan
+
+  
+
+- 💡 Fun Fact:
+
+  
+ I love solving puzzles and often find creative solutions to coding problems, just like cracking a complex puzzle!
 
 
-- ✨ Extra & Attractive::
-- Passionate about innovation, I'm always looking for new challenges and opportunities to grow. I believe in the power of collaboration and enjoy working on projects that make a difference. With a strong 
+- ✨ Extra & Attractive:
+
+  
+  Passionate about innovation, I'm always looking for new challenges and opportunities to grow. I believe in the power of collaboration and enjoy working on projects that make a difference. With a strong 
   foundation in web development and a keen eye for design, I'm excited to contribute to the tech community and build amazing applications.
 
 
