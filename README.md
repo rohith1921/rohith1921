@@ -11,7 +11,7 @@
      Advanced JavaScript concepts
 
 
-     Frontend frameworks like React and Vue.js
+     Frontend frameworks like React
 
  
      Backend development with Node.js and Express
