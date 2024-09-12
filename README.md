@@ -3,7 +3,7 @@
 - 🔧 Skills & Technologies::
 
 
-      Languages: HTML, CSS, JavaScript, Python
+      Languages: HTML, CSS, JavaScript, Python, mysql, Basic Java, Aws.
 
 - 🌱 Learning Journey:
 
