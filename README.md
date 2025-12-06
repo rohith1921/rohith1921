@@ -59,13 +59,14 @@ I love solving tricky puzzles and often apply the same mindset when debugging or
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats-kappa-five.vercel.app/api?username=rohith1921&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://streak-stats.demolab.com/?user=rohith1921&theme=tokyonight" height="170" /> -->
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohith1921&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats-kappa-five.vercel.app/api/top-langs/?username=rohith1921&layout=compact&theme=tokyonight" height="150" /> -->
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohith1921&theme=tokyonight" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohith1921&theme=tokyonight&utcOffset=5.5" />
 </p>
+
 
 
 ---
